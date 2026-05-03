@@ -1,0 +1,5 @@
+pymupdf
+easyocr
+customtkinter
+numpy
+pillow
